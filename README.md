@@ -1,6 +1,6 @@
 # Olá, eu sou o Fernando 👋
 
-Desenvolvedor Java em formação (Ciência da Computação), construindo um portfólio focado em back-end para o setor financeiro e de saúde no Brasil — bancos, fintechs e sistemas hospitalares.
+Desenvolvedor Java em formação (Ciência da Computação), construindo um portfólio focado em back-end.
 
 ## 🚀 Sobre mim
 
@@ -15,10 +15,8 @@ Desenvolvedor Java em formação (Ciência da Computação), construindo um port
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
